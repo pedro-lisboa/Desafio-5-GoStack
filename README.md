@@ -54,3 +54,34 @@ GET /transactions: Essa rota deve retornar uma listagem com todas as transaçõe
   }
 }
 ```
+## Instalação
+
+Utilize os comandos para instalar as dependencias:
+
+```sh
+npm install 
+or
+yarn
+or
+yarn instal
+```
+
+## Configuração para Desenvolvimento
+
+Para executar a aplicação:
+
+```
+yarn start
+```
+
+Para executar os testes:
+
+```
+yarn test
+```
+
+## Meta
+
+Pedro Lisboa – [@Pedro-lbrt](https://www.linkedin.com/in/pedro-lbrt/...) – pegu_lisboa@hotmail.com
+
+[https://github.com/pedro-lisboa/GoBarber-backend](https://github.com/pedro-lisboa/)
